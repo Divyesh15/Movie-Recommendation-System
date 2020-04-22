@@ -1,0 +1,2 @@
+# Movie-Recommendation-System
+We are going to build recommender system. There are many different types of recommender systems to recommend hotels,clothing, food, songs, movies and so on. They all work on different scenarios but the main concept behind them all are same. So we choose the interesting one “Movie Recommender System”. We made movie recommender system using two approaches, content-based and collaborative system.We tried our best to cover up all concepts that was required.
